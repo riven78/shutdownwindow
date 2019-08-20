@@ -1,0 +1,19 @@
+{
+  "name": "shutdownpc",
+  "version": "1.0.0",
+  "description": "关闭计算机",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riven78/shutdownwindow.git"
+  },
+  "author": "riven78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riven78/shutdownwindow/issues"
+  },
+  "homepage": "https://github.com/riven78/shutdownwindow#readme"
+}
